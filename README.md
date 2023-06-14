@@ -27,12 +27,3 @@ The MovieLens dataset is used for this project, which provides a collection of m
 
 ![Image Name](linear_image.png)
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-## Acknowledgments
-
-We would like to acknowledge the creators and maintainers of the MovieLens dataset for providing a valuable resource for research and experimentation in the field of recommender systems.
-
-Enjoy exploring different variations of KNN for movie recommendation using Python and the MovieLens dataset!
